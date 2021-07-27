@@ -7,7 +7,7 @@ Use Django REST Framework to create an API, then “containerize” it with Dock
 
 - starting time:1:30 pm
 
-- Finish time: 3:300 pm
+- Finish time: 3:30 pm
 
 ## Links:
 PR Link :[drf-api-permissions-postgres](https://github.com/NiveenAlSmadi/drf-api-permissions-postgres/pull/1)
